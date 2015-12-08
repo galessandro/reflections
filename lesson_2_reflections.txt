@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Se crear los archivos de git para configurar la carpeta como nuevo repositorio. Tengo que inicializarlo para poder utilizar la carpeta como repositorio.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+es un lugar intermedio entre mi directorio y mi repositorio
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+usando git status y git diff para verificar que se cumpla eso.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+cuando deseo tener una versión experimental o cuando por alguna razón deseo mantener una revisión separada de la principal o master.
