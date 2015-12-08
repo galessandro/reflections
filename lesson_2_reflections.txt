@@ -21,3 +21,8 @@ Me permite ver de una manera sencilla el historial de cambios de mi branch.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 el resultado es que los cambios de un branch se integran a los del otros branch. Para visualizar que cambios se hicieron en cada branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: es mas rápido, se exactamente que cambiar
+cons: se puede equivocar.
