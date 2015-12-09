@@ -1,1 +1,15 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+Por seguridad
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+para tener control de los cambios que van a tener mis branches.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks, es una copia de un repositorio existente en el cual no tengo permisos, pero con fork puedo realizar mis propia version.
+
+clones, me permite descargar un repositorio a mi pc.
+
+branches, me permite tener versiones de mi aplicacion.
