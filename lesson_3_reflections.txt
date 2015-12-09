@@ -13,3 +13,7 @@ forks, es una copia de un repositorio existente en el cual no tengo permisos, pe
 clones, me permite descargar un repositorio a mi pc.
 
 branches, me permite tener versiones de mi aplicacion.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+tienes las ultimas fuentes del proyecto
